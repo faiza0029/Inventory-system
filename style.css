@@ -1,0 +1,18 @@
+*{
+    
+    text-align: center;
+   background-color: rgb(179, 193, 208);
+}
+.inventor{
+    text-align: center;
+    font-size: 35px;
+    padding: 15px;
+    color: rgb(63, 63, 78);
+}
+input{
+     border-radius: 10px; 
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 20px;   
+}
